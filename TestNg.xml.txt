@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Gspatial">
+	<test name="Webapplication">
+		<classes>
+		    <class name="Gspatial.Air_Quality"/>
+		    <class name="Gspatial.AQ_calculations"/>
+		    <class name="Gspatial.Aq_Pollen_Waether_Calculation"/>
+		    <class name="Gspatial.cart_delete_button"/>
+		    <class name="Gspatial.Cart_module"/>
+		    <class name="Gspatial.dashboard_page"/>
+		    <class name="Gspatial.edit_category"/>
+		    <class name="Gspatial.edit_parameters_filters"/>
+		    <class name="Gspatial.edit_timeline"/>
+		    <class name="Gspatial.login_Page"/>
+		    <class name="Gspatial.Minimum_cart_value"/>
+		    <class name="Gspatial.Pollen_calculation"/>
+		    <class name="Gspatial.pollen_module"/>
+		    <class name="Gspatial.Tooltip"/>
+		    <class name="Gspatial.UserProfile"/>
+		    <class name="Gspatial.Weather_Calculation"/>
+		    <class name="Gspatial.weather_module"/>     
+
+		</classes>
+	</test>
+</suite>
